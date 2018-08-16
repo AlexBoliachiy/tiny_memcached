@@ -9,7 +9,7 @@ DEPENDENCIES:
 and as wrapper around sqlite3 I used sqlite_modern_cpp library. You can find it here, though
 it is already included in project.
 
-INSTALL
+INSTALL:
 clone this repository, exctract and then:
 mkdir build
 cd build
