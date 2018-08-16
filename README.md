@@ -7,7 +7,7 @@ https://github.com/memcached/memcached/blob/master/doc/protocol.txt
 - sqlite3
 
 and as wrapper around sqlite3 I used sqlite_modern_cpp library. You can find it here: https://github.com/SqliteModernCpp/sqlite_modern_cpp 
->though it is already included in project.
+though it is already included in project.
 
 >INSTALL:
 >clone this repository, exctract and then:
